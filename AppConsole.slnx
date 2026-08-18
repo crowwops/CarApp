@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AppConsole/AppConsole.csproj" />
+  <Project Path="Configuration/Configuration.csproj" />
+  <Project Path="Models/Models.csproj" />
+  <Project Path="Services/Services.csproj" />
+</Solution>
