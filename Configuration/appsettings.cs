@@ -1,9 +1,13 @@
 namespace Configuration;
 
-public class Car
+public class CarConfiguration
 {
-    public int NrOfCars = 10;
 
-    public static readonly string[] RegNr = new[] { "AAA111", "BBB222", "CCC333" };
+    public static class CarService
+    {
+        public const int NrOfCars = 10;
 
+        public static readonly string[] RegNr = new[] { "AAA111", "BBB222", "CCC333" };
+    }
+    
 }

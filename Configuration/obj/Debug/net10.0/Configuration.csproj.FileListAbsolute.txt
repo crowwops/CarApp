@@ -1,0 +1,12 @@
+C:\Development\Data access course\ListOfCars\Configuration\bin\Debug\net10.0\Configuration.deps.json
+C:\Development\Data access course\ListOfCars\Configuration\bin\Debug\net10.0\Configuration.dll
+C:\Development\Data access course\ListOfCars\Configuration\bin\Debug\net10.0\Configuration.pdb
+C:\Development\Data access course\ListOfCars\Configuration\obj\Debug\net10.0\Configuration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Data access course\ListOfCars\Configuration\obj\Debug\net10.0\Configuration.AssemblyInfoInputs.cache
+C:\Development\Data access course\ListOfCars\Configuration\obj\Debug\net10.0\Configuration.AssemblyInfo.cs
+C:\Development\Data access course\ListOfCars\Configuration\obj\Debug\net10.0\Configuration.csproj.CoreCompileInputs.cache
+C:\Development\Data access course\ListOfCars\Configuration\obj\Debug\net10.0\Configuration.sourcelink.json
+C:\Development\Data access course\ListOfCars\Configuration\obj\Debug\net10.0\Configuration.dll
+C:\Development\Data access course\ListOfCars\Configuration\obj\Debug\net10.0\refint\Configuration.dll
+C:\Development\Data access course\ListOfCars\Configuration\obj\Debug\net10.0\Configuration.pdb
+C:\Development\Data access course\ListOfCars\Configuration\obj\Debug\net10.0\ref\Configuration.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+JfnL701F5A=",
+  "success": true,
+  "projectFilePath": "C:\\Development\\Data access course\\ListOfCars\\MyWebApi\\MyWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Crowwops\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\Crowwops\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
